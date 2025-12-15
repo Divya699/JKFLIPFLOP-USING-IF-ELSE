@@ -70,3 +70,4 @@ endmodule
 <img width="1906" height="947" alt="Screenshot 2025-12-15 201137" src="https://github.com/user-attachments/assets/f06cf716-42e4-46c6-8d0f-22ae761b8f5a" />
 
 **RESULTS**
+Thus the JK flipflop is implemented and verified.
